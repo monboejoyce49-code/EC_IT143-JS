@@ -1,0 +1,2 @@
+-- Step 1: Start with a question
+-- Question: How many products are in each technology category?

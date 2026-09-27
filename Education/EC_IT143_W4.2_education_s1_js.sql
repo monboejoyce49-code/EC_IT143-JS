@@ -1,0 +1,2 @@
+-- Step 1: Start with a question
+-- Question: How many students are in each department?
